@@ -28,7 +28,7 @@ WSL (https://github.com/microsoft/WSL)
 
 tty-clock (https://github.com/xorg62/tty-clock)
 
-The configurations are not created by me:
+The configurations are not created by me! Just tweaked a little bit for personal use:
 https://www.reddit.com/r/GarudaLinux/comments/1dcq0dl/making_fastfetch_more_beautiful_linux/
 https://github.com/Rifqi2007c/windows-custom-desktop-pack?tab=readme-ov-file
 
